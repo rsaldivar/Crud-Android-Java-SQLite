@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CRUD ANDROID</string>
+    
+    <string name="MensajePrincipal">Bienvenido! Selecciona la operación en el "MENU"</string>
+    
+    <!-- Variables Menú -->
+    <string name="s_alta" >Altas</string>
+    <string name="s_consultar" >Consultas</string>
+    <string name="s_eliminar" >Eliminar</string>
+    <string name="s_modificar" >Modificar</string>
+    <string name="opcionExit" >Salir</string>
+    
+    <!-- Variables Sección Alta Update -->
+    <string name="nombre">Nombre</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    
+    <string name="update">Send</string>
+    <string name="s_modificar_id">ID MODIFICAR :</string>
+    
+</resources>

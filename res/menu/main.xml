@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <!-- Le damos un id a cada item del menu, y se le asigna el titulo de las variables string -->
+    <item 
+        android:id="@+id/altas"
+        android:title="@string/s_alta"
+        />
+    <item 
+        android:id="@+id/consultas"
+        android:title="@string/s_consultar"
+        />
+    <item 
+        android:id="@+id/modificar" 
+        android:title="@string/s_modificar" />
+    <item 
+        android:id="@+id/bajas" 
+        android:title="@string/s_eliminar" />
+    <item 
+        android:id="@+id/salir"
+        android:title="@string/opcionExit"
+        />
+  	
+</menu>
